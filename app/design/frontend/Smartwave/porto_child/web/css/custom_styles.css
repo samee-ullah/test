@@ -1,0 +1,14 @@
+/**
+This file will change the basic layout of the theme to our need.
+ */
+.page-header.type2 .customer-welcome .action.switch {
+    color: #999999 !important;
+}
+
+.pre-social-icons {
+    float: left;
+}
+
+.pre-social-icons a {
+    padding: 0 5px !important;
+}

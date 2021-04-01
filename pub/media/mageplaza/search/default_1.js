@@ -1,0 +1,1 @@
+var mageplazaSearchProducts = [{"value":"Sample Product","c":["3"],"d":"This is a sample product. And here we have short description.","p":20,"i":"cache\/59e6c26d33983e6f5a8e9428d3958a8f\/s\/c\/screenshot_2_.png","u":"sample-product.html"}]
